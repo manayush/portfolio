@@ -1,0 +1,29 @@
+[
+ 
+  {
+    "id": 1,
+    "role": "Software Developer Intern",
+    "organisation": "Symb Technologies ",
+    "startDate": "July,2024 -",
+    "endDate": "September,2024 ",
+    "location": "Remote",
+    "experiences": [
+      "Worked on Rest API's, React, Nodejs, UI/UX design,",
+      "Flask, Postgresql, Postman"
+    ],
+    "imageSrc": "company/20093.png"
+  },
+  {
+    "id": 2,
+    "role": "Full Stack Intern",
+    "organisation": "SYNC Interns ",
+    "startDate": "July,2023 -",
+    "endDate": "September,2023 ",
+    "location": " Remote",
+    "experiences": [
+      "Worked on Websites"
+    ],
+    "imageSrc": "company/SYN.png"
+  }
+  
+]
