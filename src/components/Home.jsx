@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../pdf/Resumeee.pdf";
+import pdf from "../pdf/Ayushnew.pdf";
 import hero from "./data/hero.json";
 
 const Home = () => {
